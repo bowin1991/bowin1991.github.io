@@ -7,13 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-._图片 {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -21,9 +14,7 @@
   font-size:32px;
   text-align:left;
 }
-._形状 {
-}
-._图片1 {
+.connector {
 }
 ._二级标题 {
   font-family:'ArialMT', 'Arial';
@@ -66,35 +57,116 @@
 }
 .box_2 {
 }
-.line {
+.horizontal_line {
 }
-.box_3 {
+.box_1 {
+}
+._次按钮（动作列表） {
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:center;
+}
+._退出按钮（动作列表） {
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#FF3300;
+  text-align:center;
+}
+._连接线 {
+}
+.ellipse {
 }
 .label {
   font-size:14px;
   text-align:left;
 }
-.paragraph {
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
   text-align:left;
 }
-.box_1 {
+._形状 {
 }
-.box_21 {
-}
-.shape {
+._图片 {
 }
 ._形状1 {
 }
-.ellipse {
+._连接线1 {
+  font-size:26px;
 }
-._连接线 {
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
   font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
+  font-size:18px;
+  text-align:left;
 }
-.box_22 {
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.button {
+}
+.line {
+}
+.box_3 {
+}
+.box_31 {
+}
+.line1 {
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.image {
+  color:#000000;
+}
+.radio_button {
+  text-align:left;
+}
+.image1 {
+  color:#000000;
 }
