@@ -3899,7 +3899,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3913,7 +3913,7 @@
   top:564px;
   width:33px;
   height:14px;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3942,7 +3942,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3955,7 +3955,7 @@
   top:565px;
   width:49px;
   height:14px;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9603,7 +9603,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9617,7 +9617,7 @@
   top:564px;
   width:33px;
   height:14px;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9646,7 +9646,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9659,7 +9659,7 @@
   top:565px;
   width:49px;
   height:14px;
-  font-family:'.AppleSystemUIFont';
+  font-family:'.AppleSystemUIFont', '.AppleSystemUIFont';
   font-weight:400;
   font-style:normal;
   font-size:12px;
